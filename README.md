@@ -1,7 +1,7 @@
 # SA2_Programa-o_de_Aplicativos_SENAI
 Código desenvolvido para a Situação Aprendizagem 2 da matéria Programação de Aplicativos.
 
-# O Arquivo Lista execulta com os seguintes parâmetros:
+<h5> O Arquivo Lista execulta com os seguintes parâmetros: <h5>
 1. Dada a lista L = [5, 7, 2, 9, 4, 1, 3], escrever um programa que imprima as seguintes informações:
 a) tamanho da lista;
 b) maior valor da lista;
