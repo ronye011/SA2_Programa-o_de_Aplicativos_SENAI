@@ -10,24 +10,24 @@ d) soma de todos os elementos da lista;
 e) lista em ordem crescente;
 f) lista em ordem decrescente.
 
-# O Arquivo Media_de_4 execulta com os seguintes parâmetros:
+<h5> O Arquivo Media_de_4 execulta com os seguintes parâmetros:<h5>
 2. Fazer um programa que leia 4 valores, calcule a média e imprima positivo ou negativo (para ser positivo a média deve ser acima de 1).
    
-# O Arquivo Media_de_20 execulta com os seguintes parâmetros:
+<h5> O Arquivo Media_de_20 execulta com os seguintes parâmetros:<h5>
 3.Escrever um programa que leia 20 valores inteiros e informe a média deles, o maior e o menor valor.
 
-# O Arquivo Linha execulta com os seguintes parâmetros:
+<h5> O Arquivo Linha execulta com os seguintes parâmetros:<h5>
 4. Criar uma função para desenhar uma linha, usando o caractere '_' (underline). O tamanho da linha deve
 ser definido na chamada da função.
 
-# O Arquivo Imprimir execulta com os seguintes parâmetros:
+<h5> O Arquivo Imprimir execulta com os seguintes parâmetros:<h5>
 5. Criar uma função que receba como parâmetro uma lista, com valores de qualquer tipo. A função deve
 imprimir todos os elementos da lista, enumerando-os.
 
-# O Arquivo Conversor execulta com os seguintes parâmetros:
+<h5> O Arquivo Conversor execulta com os seguintes parâmetros:<h5>
 6. Criar um programa que converta horas em segundos, conforme o valor que o usuário informar quando solicitado a ele.
 
-# O Arquivo lista execulta com os seguintes parâmetros:
+<h5> O Arquivo lista execulta com os seguintes parâmetros:<h5>
 7. Alterar o código a seguir, para o menor número de linhas possível, mantendo o mesmo resultado:
 print("   *");
 print("  * *");
